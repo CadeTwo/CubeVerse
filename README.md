@@ -1,3 +1,5 @@
+<img width="1919" height="1079" alt="Screenshot 2026-08-08 163817" src="https://github.com/user-attachments/assets/af2ed690-fd5a-4428-9356-a2310561bb3a" />
+
 ## What is CubeVerse?
 
 CubeVerse is the placeholder name for a voxel space sandbox currently in development. The game combines the intuitive block-by-block freedom of Minecraft with the vehicle construction, physics, and exploration of Kerbal Space Program, all within a massive procedurally generated galaxy containing upwards of 100 million star systems.
