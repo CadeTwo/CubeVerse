@@ -3,12 +3,8 @@
 CubeVerse is the placeholder name for a voxel space sandbox currently in development. The game combines the intuitive block-by-block freedom of Minecraft with the vehicle construction, physics, and exploration of Kerbal Space Program, all within a massive procedurally generated galaxy containing upwards of 100 million star systems.
 
 <div align="center">
-  <a href="https://github.com/CadeTwo/CubeVerse/releases/latest">
-    <img src="https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=4DC820&label=RELEASE" alt="Latest CubeVerse Release">
-  </a>
-  <a href="https://discord.gg/gr5yf6NAPU">
-    <img src="https://img.shields.io/badge/JOIN-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the CubeVerse Discord">
-  </a>
+  <a href="https://github.com/CadeTwo/CubeVerse/releases/latest"><img src="https://img.shields.io/github/v/release/CadeTwo/CubeVerse?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=181717&amp;color=4DC820&amp;label=RELEASE" alt="Latest CubeVerse Release"></a>
+  <a href="https://discord.gg/gr5yf6NAPU"><img src="https://img.shields.io/badge/JOIN-DISCORD-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Join the CubeVerse Discord"></a>
 </div>
 
 ### A Continuous Voxel Universe
